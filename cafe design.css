@@ -1,0 +1,24 @@
+body {
+	background-image: url("peanut.jpeg");	
+}
+.pp{
+	background-color:FF9633;
+	margin:auto;
+	width: 350px;
+	height:500px;
+	box-sizing:border-box;
+	}
+.hy{
+	text-align:center;
+	font-family:aeriel;
+}
+.pic{
+	text-align:center;
+}
+.price{
+	padding:0 20px;	
+}
+.flex{
+	display:flex;
+	justify-content:space-between;
+}
